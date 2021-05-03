@@ -1,0 +1,12 @@
+{
+  "ver": "1.1.2",
+  "uuid": "14f5e6bb-6413-4175-bfbe-f184af6bff7b",
+  "isBundle": true,
+  "bundleName": "subgame3",
+  "priority": 1,
+  "compressionType": {},
+  "optimizeHotUpdate": {},
+  "inlineSpriteFrames": {},
+  "isRemoteBundle": {},
+  "subMetas": {}
+}
