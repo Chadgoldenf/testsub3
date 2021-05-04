@@ -1,8 +1,8 @@
 {
   "ver": "1.1.2",
-  "uuid": "14f5e6bb-6413-4175-bfbe-f184af6bff7b",
-  "isBundle": true,
-  "bundleName": "subgame4",
+  "uuid": "e1faf15c-547b-48b6-8c23-de7b6e1c1470",
+  "isBundle": false,
+  "bundleName": "",
   "priority": 1,
   "compressionType": {},
   "optimizeHotUpdate": {},
